@@ -23,7 +23,7 @@ h3 {
   font-weight: bold;
 }
 
-.step p {
+.step p, .aboutus p {
   font-size: 14px;
 }
 
