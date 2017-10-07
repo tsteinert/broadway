@@ -31,3 +31,14 @@ a {
   color: white;
   font-size: 18px;
 }
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px;
+}
+
+.footer a {
+  font-size: 11px;
+}
