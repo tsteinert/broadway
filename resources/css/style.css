@@ -3,12 +3,12 @@ body {
   font-family: Helvetica;
 }
 
-.header {
+.header, .separator {
   background-image: url('../images/the-flatiron-building.png');
+  color: white;
 }
 
 h1 {
-  color: white;
   font-size: 70px;
   font-weight: bold;
 }
